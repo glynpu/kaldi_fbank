@@ -201,4 +201,4 @@
         导致与numpy计算出来的filter banks 有出入
         但是最终的fbanks 差异不大。具体数值见下图
      
-     ![](./fbank_kaldi_python.jpeg)
+     ![](./fbank_kaldi_python.png)
